@@ -1,6 +1,6 @@
 // SPDX-License-Identifier: MIT
 
-pragma solidity  =0.6.6;
+pragma solidity  ^0.5.16;
 
 import '../interfaces/IYadokariSwapFactory.sol';
 import './YadokariSwapPair.sol';
